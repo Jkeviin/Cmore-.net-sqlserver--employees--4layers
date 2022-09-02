@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Conexion>
+  <Servidor>ARMDFPCCIFSD051\SQLEXPRESS</Servidor>
+  <BaseDatos>DB_Empresa</BaseDatos>
+  <Usuario></Usuario>
+  <Password></Password>
+</Conexion>

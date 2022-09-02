@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="LibConexionBD">
+</Property><Property Name="Solution File" Value="C:\Users\DesarroSoft\Documents\ADALBERTO\ejercicio de inventario\LibConexionBD\LibConexionBD.sln">
+</Property><Property Name="User Options File" Value="C:\Users\DesarroSoft\Documents\ADALBERTO\ejercicio de inventario\LibConexionBD\LibConexionBD.suo">
+</Property><Property Name="Date" Value="miércoles, 17 de octubre de 2012">
+</Property><Property Name="Time" Value="10:02 a.m.">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="LibConexionBD.sln" Description="File successfully backed up as C:\Users\DesarroSoft\Documents\ADALBERTO\ejercicio de inventario\LibConexionBD\Backup\LibConexionBD.sln">
+</Event><Event ErrorLevel="0" Project="" Source="LibConexionBD.suo" Description="File successfully backed up as C:\Users\DesarroSoft\Documents\ADALBERTO\ejercicio de inventario\LibConexionBD\Backup\LibConexionBD.suo">
+</Event><Event ErrorLevel="0" Project="LibConexionBD" Source="LibConexionBD\LibConexionBD.csproj" Description="Project file successfully backed up as C:\Users\DesarroSoft\Documents\ADALBERTO\ejercicio de inventario\LibConexionBD\Backup\LibConexionBD\LibConexionBD.csproj">
+</Event><Event ErrorLevel="0" Project="LibConexionBD" Source="LibConexionBD\LibConexionBD.csproj.user" Description="Project user file successfully backed up as C:\Users\DesarroSoft\Documents\ADALBERTO\ejercicio de inventario\LibConexionBD\Backup\LibConexionBD\LibConexionBD.csproj.user">
+</Event><Event ErrorLevel="0" Project="LibConexionBD" Source="LibConexionBD\ClsConexion.cs" Description="File successfully backed up as C:\Users\DesarroSoft\Documents\ADALBERTO\ejercicio de inventario\LibConexionBD\Backup\LibConexionBD\ClsConexion.cs">
+</Event><Event ErrorLevel="0" Project="LibConexionBD" Source="LibConexionBD\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\DesarroSoft\Documents\ADALBERTO\ejercicio de inventario\LibConexionBD\Backup\LibConexionBD\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="LibConexionBD" Source="LibConexionBD\LibConexionBD.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="LibConexionBD" Source="LibConexionBD\LibConexionBD.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="LibConexionBD.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="LibConexionBD.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="LibConexionBD" Source="LibConexionBD\LibConexionBD.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

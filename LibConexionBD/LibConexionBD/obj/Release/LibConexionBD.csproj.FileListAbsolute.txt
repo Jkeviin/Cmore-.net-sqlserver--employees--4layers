@@ -1,0 +1,23 @@
+F:\C sharp\LibConexionBD\LibConexionBD\bin\Release\LibConexionBD.dll
+F:\C sharp\LibConexionBD\LibConexionBD\bin\Release\LibConexionBD.pdb
+F:\C sharp\LibConexionBD\LibConexionBD\bin\Release\ClassLibrary1.dll
+F:\C sharp\LibConexionBD\LibConexionBD\bin\Release\ClassLibrary1.pdb
+F:\C sharp\LibConexionBD\LibConexionBD\obj\Release\ResolveAssemblyReference.cache
+F:\C sharp\LibConexionBD\LibConexionBD\obj\Release\LibConexionBD.dll
+F:\C sharp\LibConexionBD\LibConexionBD\obj\Release\LibConexionBD.pdb
+C:\Users\ADALCAR26\Desktop\ejercicio de inventario\LibConexionBD\LibConexionBD\bin\Release\LibConexionBD.dll
+C:\Users\ADALCAR26\Desktop\ejercicio de inventario\LibConexionBD\LibConexionBD\bin\Release\LibConexionBD.pdb
+C:\Users\ADALCAR26\Desktop\ejercicio de inventario\LibConexionBD\LibConexionBD\obj\Release\LibConexionBD.csprojResolveAssemblyReference.cache
+C:\Users\ADALCAR26\Desktop\ejercicio de inventario\LibConexionBD\LibConexionBD\obj\Release\LibConexionBD.dll
+C:\Users\ADALCAR26\Desktop\ejercicio de inventario\LibConexionBD\LibConexionBD\obj\Release\LibConexionBD.pdb
+C:\Users\ADALCAR26\Desktop\ejercicio de inventario\LibConexionBD\LibConexionBD\bin\Release\LibParametro.dll
+C:\Users\ADALCAR26\Desktop\ejercicio de inventario\LibConexionBD\LibConexionBD\bin\Release\LibParametro.pdb
+C:\Users\adsi\Desktop\Proyecto 4 Capas\LibConexionBD\LibConexionBD\bin\Release\LibConexionBD.dll
+C:\Users\adsi\Desktop\Proyecto 4 Capas\LibConexionBD\LibConexionBD\bin\Release\LibConexionBD.pdb
+C:\Users\adsi\Desktop\Proyecto 4 Capas\LibConexionBD\LibConexionBD\bin\Release\LibParametro.dll
+C:\Users\adsi\Desktop\Proyecto 4 Capas\LibConexionBD\LibConexionBD\bin\Release\LibParametro.pdb
+C:\Users\adsi\Desktop\Proyecto 4 Capas\LibConexionBD\LibConexionBD\obj\Release\LibConexionBD.csproj.AssemblyReference.cache
+C:\Users\adsi\Desktop\Proyecto 4 Capas\LibConexionBD\LibConexionBD\obj\Release\LibConexionBD.csproj.CoreCompileInputs.cache
+C:\Users\adsi\Desktop\Proyecto 4 Capas\LibConexionBD\LibConexionBD\obj\Release\LibConexionBD.csproj.CopyComplete
+C:\Users\adsi\Desktop\Proyecto 4 Capas\LibConexionBD\LibConexionBD\obj\Release\LibConexionBD.dll
+C:\Users\adsi\Desktop\Proyecto 4 Capas\LibConexionBD\LibConexionBD\obj\Release\LibConexionBD.pdb

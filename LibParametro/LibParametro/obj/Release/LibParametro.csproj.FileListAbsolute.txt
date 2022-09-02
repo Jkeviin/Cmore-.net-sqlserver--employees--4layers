@@ -1,0 +1,20 @@
+C:\Documents and Settings\Jorge Peña\Escritorio\Practica_MaestroDeEmpleados\LibParametro\LibParametro\bin\Release\LibParametro.dll
+C:\Documents and Settings\Jorge Peña\Escritorio\Practica_MaestroDeEmpleados\LibParametro\LibParametro\bin\Release\LibParametro.pdb
+C:\Documents and Settings\Jorge Peña\Escritorio\Practica_MaestroDeEmpleados\LibParametro\LibParametro\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jorge Peña\Escritorio\Practica_MaestroDeEmpleados\LibParametro\LibParametro\obj\Release\LibParametro.dll
+C:\Documents and Settings\Jorge Peña\Escritorio\Practica_MaestroDeEmpleados\LibParametro\LibParametro\obj\Release\LibParametro.pdb
+D:\TODO PERSONAL\Desarrollo Web\PRYWGridsCombos\LibParametro\LibParametro\bin\Release\LibParametro.dll
+D:\TODO PERSONAL\Desarrollo Web\PRYWGridsCombos\LibParametro\LibParametro\bin\Release\LibParametro.pdb
+D:\TODO PERSONAL\Desarrollo Web\PRYWGridsCombos\LibParametro\LibParametro\obj\Release\ResolveAssemblyReference.cache
+D:\TODO PERSONAL\Desarrollo Web\PRYWGridsCombos\LibParametro\LibParametro\obj\Release\LibParametro.dll
+D:\TODO PERSONAL\Desarrollo Web\PRYWGridsCombos\LibParametro\LibParametro\obj\Release\LibParametro.pdb
+C:\Users\ADALCAR26\Desktop\ejercicio de inventario\LibParametro\LibParametro\bin\Release\LibParametro.dll
+C:\Users\ADALCAR26\Desktop\ejercicio de inventario\LibParametro\LibParametro\bin\Release\LibParametro.pdb
+C:\Users\ADALCAR26\Desktop\ejercicio de inventario\LibParametro\LibParametro\obj\Release\LibParametro.dll
+C:\Users\ADALCAR26\Desktop\ejercicio de inventario\LibParametro\LibParametro\obj\Release\LibParametro.pdb
+C:\Users\adsi\Desktop\Proyecto 4 Capas\LibParametro\LibParametro\bin\Release\LibParametro.dll
+C:\Users\adsi\Desktop\Proyecto 4 Capas\LibParametro\LibParametro\bin\Release\LibParametro.pdb
+C:\Users\adsi\Desktop\Proyecto 4 Capas\LibParametro\LibParametro\obj\Release\LibParametro.csproj.AssemblyReference.cache
+C:\Users\adsi\Desktop\Proyecto 4 Capas\LibParametro\LibParametro\obj\Release\LibParametro.csproj.CoreCompileInputs.cache
+C:\Users\adsi\Desktop\Proyecto 4 Capas\LibParametro\LibParametro\obj\Release\LibParametro.dll
+C:\Users\adsi\Desktop\Proyecto 4 Capas\LibParametro\LibParametro\obj\Release\LibParametro.pdb
