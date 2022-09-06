@@ -16,3 +16,23 @@ C:\Users\adsi\Desktop\Proyecto 4 Capas\App Empresa\App Empresa\bin\Debug\LibCone
 C:\Users\adsi\Desktop\Proyecto 4 Capas\App Empresa\App Empresa\bin\Debug\LibParametro.pdb
 C:\Users\adsi\Desktop\Proyecto 4 Capas\App Empresa\App Empresa\obj\Debug\App Empresa.csproj.CopyComplete
 C:\Users\adsi\Desktop\Proyecto 4 Capas\App Empresa\App Empresa\bin\Debug\Lib_LN_Empleado.dll
+C:\Users\adsi\Desktop\cmore-.net-sqlserver--employees--4layers\App Empresa\App Empresa\bin\Debug\App Empresa.exe.config
+C:\Users\adsi\Desktop\cmore-.net-sqlserver--employees--4layers\App Empresa\App Empresa\bin\Debug\App Empresa.exe
+C:\Users\adsi\Desktop\cmore-.net-sqlserver--employees--4layers\App Empresa\App Empresa\bin\Debug\App Empresa.pdb
+C:\Users\adsi\Desktop\cmore-.net-sqlserver--employees--4layers\App Empresa\App Empresa\bin\Debug\Lib_LN_Empleado.dll
+C:\Users\adsi\Desktop\cmore-.net-sqlserver--employees--4layers\App Empresa\App Empresa\bin\Debug\LibLlenarGrid.dll
+C:\Users\adsi\Desktop\cmore-.net-sqlserver--employees--4layers\App Empresa\App Empresa\bin\Debug\LibConexionBD.dll
+C:\Users\adsi\Desktop\cmore-.net-sqlserver--employees--4layers\App Empresa\App Empresa\bin\Debug\LibParametro.dll
+C:\Users\adsi\Desktop\cmore-.net-sqlserver--employees--4layers\App Empresa\App Empresa\bin\Debug\Lib_LN_Empleado.pdb
+C:\Users\adsi\Desktop\cmore-.net-sqlserver--employees--4layers\App Empresa\App Empresa\bin\Debug\LibLlenarGrid.pdb
+C:\Users\adsi\Desktop\cmore-.net-sqlserver--employees--4layers\App Empresa\App Empresa\bin\Debug\LibConexionBD.pdb
+C:\Users\adsi\Desktop\cmore-.net-sqlserver--employees--4layers\App Empresa\App Empresa\bin\Debug\LibParametro.pdb
+C:\Users\adsi\Desktop\cmore-.net-sqlserver--employees--4layers\App Empresa\App Empresa\obj\Debug\App Empresa.csproj.AssemblyReference.cache
+C:\Users\adsi\Desktop\cmore-.net-sqlserver--employees--4layers\App Empresa\App Empresa\obj\Debug\App Empresa.csproj.SuggestedBindingRedirects.cache
+C:\Users\adsi\Desktop\cmore-.net-sqlserver--employees--4layers\App Empresa\App Empresa\obj\Debug\App_Empresa.Form1.resources
+C:\Users\adsi\Desktop\cmore-.net-sqlserver--employees--4layers\App Empresa\App Empresa\obj\Debug\App_Empresa.Properties.Resources.resources
+C:\Users\adsi\Desktop\cmore-.net-sqlserver--employees--4layers\App Empresa\App Empresa\obj\Debug\App Empresa.csproj.GenerateResource.cache
+C:\Users\adsi\Desktop\cmore-.net-sqlserver--employees--4layers\App Empresa\App Empresa\obj\Debug\App Empresa.csproj.CoreCompileInputs.cache
+C:\Users\adsi\Desktop\cmore-.net-sqlserver--employees--4layers\App Empresa\App Empresa\obj\Debug\App Empresa.csproj.CopyComplete
+C:\Users\adsi\Desktop\cmore-.net-sqlserver--employees--4layers\App Empresa\App Empresa\obj\Debug\App Empresa.exe
+C:\Users\adsi\Desktop\cmore-.net-sqlserver--employees--4layers\App Empresa\App Empresa\obj\Debug\App Empresa.pdb

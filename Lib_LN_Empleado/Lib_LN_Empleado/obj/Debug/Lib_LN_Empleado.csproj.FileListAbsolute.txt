@@ -20,3 +20,16 @@ C:\Users\adsi\Desktop\Proyecto 4 Capas\Lib_LN_Empleado\Lib_LN_Empleado\bin\Debug
 C:\Users\adsi\Desktop\Proyecto 4 Capas\Lib_LN_Empleado\Lib_LN_Empleado\bin\Debug\LibParametro.dll
 C:\Users\adsi\Desktop\Proyecto 4 Capas\Lib_LN_Empleado\Lib_LN_Empleado\bin\Debug\LibConexionBD.pdb
 C:\Users\adsi\Desktop\Proyecto 4 Capas\Lib_LN_Empleado\Lib_LN_Empleado\bin\Debug\LibParametro.pdb
+C:\Users\adsi\Desktop\cmore-.net-sqlserver--employees--4layers\Lib_LN_Empleado\Lib_LN_Empleado\bin\Debug\Lib_LN_Empleado.dll
+C:\Users\adsi\Desktop\cmore-.net-sqlserver--employees--4layers\Lib_LN_Empleado\Lib_LN_Empleado\bin\Debug\Lib_LN_Empleado.pdb
+C:\Users\adsi\Desktop\cmore-.net-sqlserver--employees--4layers\Lib_LN_Empleado\Lib_LN_Empleado\bin\Debug\LibConexionBD.dll
+C:\Users\adsi\Desktop\cmore-.net-sqlserver--employees--4layers\Lib_LN_Empleado\Lib_LN_Empleado\bin\Debug\LibLlenarGrid.dll
+C:\Users\adsi\Desktop\cmore-.net-sqlserver--employees--4layers\Lib_LN_Empleado\Lib_LN_Empleado\bin\Debug\LibParametro.dll
+C:\Users\adsi\Desktop\cmore-.net-sqlserver--employees--4layers\Lib_LN_Empleado\Lib_LN_Empleado\bin\Debug\LibConexionBD.pdb
+C:\Users\adsi\Desktop\cmore-.net-sqlserver--employees--4layers\Lib_LN_Empleado\Lib_LN_Empleado\bin\Debug\LibLlenarGrid.pdb
+C:\Users\adsi\Desktop\cmore-.net-sqlserver--employees--4layers\Lib_LN_Empleado\Lib_LN_Empleado\bin\Debug\LibParametro.pdb
+C:\Users\adsi\Desktop\cmore-.net-sqlserver--employees--4layers\Lib_LN_Empleado\Lib_LN_Empleado\obj\Debug\Lib_LN_Empleado.csproj.AssemblyReference.cache
+C:\Users\adsi\Desktop\cmore-.net-sqlserver--employees--4layers\Lib_LN_Empleado\Lib_LN_Empleado\obj\Debug\Lib_LN_Empleado.csproj.CoreCompileInputs.cache
+C:\Users\adsi\Desktop\cmore-.net-sqlserver--employees--4layers\Lib_LN_Empleado\Lib_LN_Empleado\obj\Debug\Lib_LN_Empleado.csproj.CopyComplete
+C:\Users\adsi\Desktop\cmore-.net-sqlserver--employees--4layers\Lib_LN_Empleado\Lib_LN_Empleado\obj\Debug\Lib_LN_Empleado.dll
+C:\Users\adsi\Desktop\cmore-.net-sqlserver--employees--4layers\Lib_LN_Empleado\Lib_LN_Empleado\obj\Debug\Lib_LN_Empleado.pdb

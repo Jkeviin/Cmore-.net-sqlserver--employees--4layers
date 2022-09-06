@@ -1,0 +1,73 @@
+C:\Users\Sena\AppData\Local\Temporary Projects\LibLlenarGrid\obj\Release\ResolveAssemblyReference.cache
+F:\TrabajoConexion\LibLlenarGrid\LibLlenarGrid\bin\Release\LibLlenarGrid.dll
+F:\TrabajoConexion\LibLlenarGrid\LibLlenarGrid\bin\Release\LibLlenarGrid.pdb
+F:\TrabajoConexion\LibLlenarGrid\LibLlenarGrid\bin\Release\LibConexionBD.dll
+F:\TrabajoConexion\LibLlenarGrid\LibLlenarGrid\bin\Release\LibParametro.dll
+F:\TrabajoConexion\LibLlenarGrid\LibLlenarGrid\bin\Release\LibConexionBD.pdb
+F:\TrabajoConexion\LibLlenarGrid\LibLlenarGrid\bin\Release\LibParametro.pdb
+F:\TrabajoConexion\LibLlenarGrid\LibLlenarGrid\obj\Release\ResolveAssemblyReference.cache
+F:\TrabajoConexion\LibLlenarGrid\LibLlenarGrid\obj\Release\LibLlenarGrid.dll
+F:\TrabajoConexion\LibLlenarGrid\LibLlenarGrid\obj\Release\LibLlenarGrid.pdb
+D:\Dragtx\TrabajoConexion\LibLlenarGrid\LibLlenarGrid\bin\Release\LibLlenarGrid.dll
+D:\Dragtx\TrabajoConexion\LibLlenarGrid\LibLlenarGrid\bin\Release\LibLlenarGrid.pdb
+D:\Dragtx\TrabajoConexion\LibLlenarGrid\LibLlenarGrid\bin\Release\LibConexionBD.dll
+D:\Dragtx\TrabajoConexion\LibLlenarGrid\LibLlenarGrid\bin\Release\LibParametro.dll
+D:\Dragtx\TrabajoConexion\LibLlenarGrid\LibLlenarGrid\bin\Release\LibConexionBD.pdb
+D:\Dragtx\TrabajoConexion\LibLlenarGrid\LibLlenarGrid\bin\Release\LibParametro.pdb
+D:\Dragtx\TrabajoConexion\LibLlenarGrid\LibLlenarGrid\obj\Release\ResolveAssemblyReference.cache
+D:\Dragtx\TrabajoConexion\LibLlenarGrid\LibLlenarGrid\obj\Release\LibLlenarGrid.dll
+D:\Dragtx\TrabajoConexion\LibLlenarGrid\LibLlenarGrid\obj\Release\LibLlenarGrid.pdb
+H:\C#\TrabajoConexion\LibLlenarGrid\LibLlenarGrid\bin\Release\LibLlenarGrid.dll
+H:\C#\TrabajoConexion\LibLlenarGrid\LibLlenarGrid\bin\Release\LibLlenarGrid.pdb
+H:\C#\TrabajoConexion\LibLlenarGrid\LibLlenarGrid\bin\Release\LibConexionBD.dll
+H:\C#\TrabajoConexion\LibLlenarGrid\LibLlenarGrid\bin\Release\LibParametro.dll
+H:\C#\TrabajoConexion\LibLlenarGrid\LibLlenarGrid\bin\Release\LibConexionBD.pdb
+H:\C#\TrabajoConexion\LibLlenarGrid\LibLlenarGrid\bin\Release\LibParametro.pdb
+H:\C#\TrabajoConexion\LibLlenarGrid\LibLlenarGrid\obj\Release\ResolveAssemblyReference.cache
+H:\C#\TrabajoConexion\LibLlenarGrid\LibLlenarGrid\obj\Release\LibLlenarGrid.dll
+H:\C#\TrabajoConexion\LibLlenarGrid\LibLlenarGrid\obj\Release\LibLlenarGrid.pdb
+F:\C#\SENA\Proyecto_AGENDA\LibLlenarGrid\LibLlenarGrid\bin\Release\LibLlenarGrid.dll
+F:\C#\SENA\Proyecto_AGENDA\LibLlenarGrid\LibLlenarGrid\bin\Release\LibLlenarGrid.pdb
+F:\C#\SENA\Proyecto_AGENDA\LibLlenarGrid\LibLlenarGrid\bin\Release\LibConexionBD.dll
+F:\C#\SENA\Proyecto_AGENDA\LibLlenarGrid\LibLlenarGrid\bin\Release\LibParametro.dll
+F:\C#\SENA\Proyecto_AGENDA\LibLlenarGrid\LibLlenarGrid\bin\Release\LibConexionBD.pdb
+F:\C#\SENA\Proyecto_AGENDA\LibLlenarGrid\LibLlenarGrid\bin\Release\LibParametro.pdb
+F:\C#\SENA\Proyecto_AGENDA\LibLlenarGrid\LibLlenarGrid\obj\Release\ResolveAssemblyReference.cache
+F:\C#\SENA\Proyecto_AGENDA\LibLlenarGrid\LibLlenarGrid\obj\Release\LibLlenarGrid.dll
+F:\C#\SENA\Proyecto_AGENDA\LibLlenarGrid\LibLlenarGrid\obj\Release\LibLlenarGrid.pdb
+E:\C#\SENA\PROYECTO_CONSECIONARIO_VS2010\LibLlenarGrid\LibLlenarGrid\bin\Release\LibLlenarGrid.dll
+E:\C#\SENA\PROYECTO_CONSECIONARIO_VS2010\LibLlenarGrid\LibLlenarGrid\bin\Release\LibLlenarGrid.pdb
+E:\C#\SENA\PROYECTO_CONSECIONARIO_VS2010\LibLlenarGrid\LibLlenarGrid\bin\Release\LibConexionBD.dll
+E:\C#\SENA\PROYECTO_CONSECIONARIO_VS2010\LibLlenarGrid\LibLlenarGrid\bin\Release\LibParametro.dll
+E:\C#\SENA\PROYECTO_CONSECIONARIO_VS2010\LibLlenarGrid\LibLlenarGrid\bin\Release\LibConexionBD.pdb
+E:\C#\SENA\PROYECTO_CONSECIONARIO_VS2010\LibLlenarGrid\LibLlenarGrid\bin\Release\LibParametro.pdb
+E:\C#\SENA\PROYECTO_CONSECIONARIO_VS2010\LibLlenarGrid\LibLlenarGrid\obj\Release\ResolveAssemblyReference.cache
+E:\C#\SENA\PROYECTO_CONSECIONARIO_VS2010\LibLlenarGrid\LibLlenarGrid\obj\Release\LibLlenarGrid.dll
+E:\C#\SENA\PROYECTO_CONSECIONARIO_VS2010\LibLlenarGrid\LibLlenarGrid\obj\Release\LibLlenarGrid.pdb
+F:\C#\SENA\PROYECTO_CONSECIONARIO_VS2010\LibLlenarGrid\LibLlenarGrid\obj\Release\ResolveAssemblyReference.cache
+F:\C#\SENA\PROYECTO_CONSECIONARIO_VS2010\LibLlenarGrid\LibLlenarGrid\obj\Release\LibLlenarGrid.pdb
+F:\C#\SENA\PROYECTO_CONSECIONARIO_VS2010\LibLlenarGrid\LibLlenarGrid\bin\Release\LibLlenarGrid.dll
+F:\C#\SENA\PROYECTO_CONSECIONARIO_VS2010\LibLlenarGrid\LibLlenarGrid\bin\Release\LibLlenarGrid.pdb
+F:\C#\SENA\PROYECTO_CONSECIONARIO_VS2010\LibLlenarGrid\LibLlenarGrid\bin\Release\LibConexionBD.dll
+F:\C#\SENA\PROYECTO_CONSECIONARIO_VS2010\LibLlenarGrid\LibLlenarGrid\bin\Release\LibParametro.dll
+F:\C#\SENA\PROYECTO_CONSECIONARIO_VS2010\LibLlenarGrid\LibLlenarGrid\bin\Release\LibConexionBD.pdb
+F:\C#\SENA\PROYECTO_CONSECIONARIO_VS2010\LibLlenarGrid\LibLlenarGrid\bin\Release\LibParametro.pdb
+F:\C#\SENA\PROYECTO_CONSECIONARIO_VS2010\LibLlenarGrid\LibLlenarGrid\obj\Release\LibLlenarGrid.dll
+C:\Users\SENA\Desktop\Isaak\Trabajo de repaso Combos Y grid 2012\LibLlenarGrid\LibLlenarGrid\bin\Release\LibLlenarGrid.dll
+C:\Users\SENA\Desktop\Isaak\Trabajo de repaso Combos Y grid 2012\LibLlenarGrid\LibLlenarGrid\bin\Release\LibLlenarGrid.pdb
+C:\Users\SENA\Desktop\Isaak\Trabajo de repaso Combos Y grid 2012\LibLlenarGrid\LibLlenarGrid\bin\Release\LibConexionBD.dll
+C:\Users\SENA\Desktop\Isaak\Trabajo de repaso Combos Y grid 2012\LibLlenarGrid\LibLlenarGrid\bin\Release\LibParametro.dll
+C:\Users\SENA\Desktop\Isaak\Trabajo de repaso Combos Y grid 2012\LibLlenarGrid\LibLlenarGrid\bin\Release\LibConexionBD.pdb
+C:\Users\SENA\Desktop\Isaak\Trabajo de repaso Combos Y grid 2012\LibLlenarGrid\LibLlenarGrid\bin\Release\LibParametro.pdb
+C:\Users\SENA\Desktop\Isaak\Trabajo de repaso Combos Y grid 2012\LibLlenarGrid\LibLlenarGrid\obj\Release\ResolveAssemblyReference.cache
+C:\Users\SENA\Desktop\Isaak\Trabajo de repaso Combos Y grid 2012\LibLlenarGrid\LibLlenarGrid\obj\Release\LibLlenarGrid.dll
+C:\Users\SENA\Desktop\Isaak\Trabajo de repaso Combos Y grid 2012\LibLlenarGrid\LibLlenarGrid\obj\Release\LibLlenarGrid.pdb
+C:\Users\Isaak Olaya\Desktop\ASP.NET\Tarea importante\LibLlenarGrid\LibLlenarGrid\bin\Release\LibLlenarGrid.dll
+C:\Users\Isaak Olaya\Desktop\ASP.NET\Tarea importante\LibLlenarGrid\LibLlenarGrid\bin\Release\LibLlenarGrid.pdb
+C:\Users\Isaak Olaya\Desktop\ASP.NET\Tarea importante\LibLlenarGrid\LibLlenarGrid\bin\Release\LibConexionBD.dll
+C:\Users\Isaak Olaya\Desktop\ASP.NET\Tarea importante\LibLlenarGrid\LibLlenarGrid\bin\Release\LibParametro.dll
+C:\Users\Isaak Olaya\Desktop\ASP.NET\Tarea importante\LibLlenarGrid\LibLlenarGrid\bin\Release\LibConexionBD.pdb
+C:\Users\Isaak Olaya\Desktop\ASP.NET\Tarea importante\LibLlenarGrid\LibLlenarGrid\bin\Release\LibParametro.pdb
+C:\Users\Isaak Olaya\Desktop\ASP.NET\Tarea importante\LibLlenarGrid\LibLlenarGrid\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Isaak Olaya\Desktop\ASP.NET\Tarea importante\LibLlenarGrid\LibLlenarGrid\obj\Release\LibLlenarGrid.dll
+C:\Users\Isaak Olaya\Desktop\ASP.NET\Tarea importante\LibLlenarGrid\LibLlenarGrid\obj\Release\LibLlenarGrid.pdb
